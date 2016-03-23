@@ -1,4 +1,4 @@
 1=> Sarmad First commit this is untracked now.....goin to add this git add .
 hello world
 sarmad is doing something
-Hello are you there from github
+nalaik student
